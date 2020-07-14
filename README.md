@@ -36,3 +36,10 @@
 ## Podcasts
 
 *1-* https://www.youtube.com/watch?v=Qtgep2CEExY
+
+## Tools
+
+*1-* https://github.com/rusty1s/pytorch_geometric
+
+*2-*  https://github.com/facebookresearch/pytorch3d
+
