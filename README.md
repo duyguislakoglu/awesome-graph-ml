@@ -31,4 +31,8 @@
 
 ## Videos
 
+*1-* https://www.youtube.com/watch?v=8kTxTX0eBRA
+
 ## Podcasts
+
+*1-* https://www.youtube.com/watch?v=Qtgep2CEExY
