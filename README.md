@@ -21,6 +21,8 @@
 
 ## Slides
 
+*1-* https://www.dropbox.com/s/appafg1fumb6u7f/tutorial_CVPR17_DL_graphs.pdf?dl=0
+
 ## Blog Posts
 
 *1-* https://towardsdatascience.com/@michael.bronstein
@@ -34,6 +36,8 @@
 ## Videos
 
 *1-* https://www.youtube.com/watch?v=8kTxTX0eBRA
+
+*2-* https://www.youtube.com/watch?v=v3jZRkvIOIM
 
 ## Podcasts
 
