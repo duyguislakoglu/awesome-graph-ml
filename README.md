@@ -1,4 +1,4 @@
-# awesome-geometric-deep-learning
+# awesome-gnn-geometric-deep-learning
 ## Courses
 
 *1-* http://web.stanford.edu/class/cs224w/
