@@ -13,6 +13,10 @@
 
 *3-*  https://qdata.github.io/deep2Read//aReadingsIndexByCategory/#2Graphs
 
+## Workshops
+
+*1-*https://grlplus.github.io
+
 ## Slides
 
 ## Blog Posts
@@ -20,8 +24,6 @@
 *1-* https://towardsdatascience.com/@michael.bronstein
 
 *2-* https://medium.com/@BorisAKnyazev
-
-
 
 ## Tutorials
 
