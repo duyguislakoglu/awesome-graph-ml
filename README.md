@@ -7,6 +7,8 @@
   
 ## Collections
 
+## Slides
+
 ## Tutorials
 
 ## Videos
