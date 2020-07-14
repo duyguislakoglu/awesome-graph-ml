@@ -1,9 +1,7 @@
 # awesome-gnn-geometric-deep-learning
 ## Courses
 
-*1-* http://web.stanford.edu/class/cs224w/
-
-     2019 Winter Lecture Videos: http://snap.stanford.edu/class/cs224w-videos-2019/ 
+*1-* http://web.stanford.edu/class/cs224w/ 2019 Winter Lecture Videos: http://snap.stanford.edu/class/cs224w-videos-2019/ 
      
 *2-* https://cs.mcgill.ca/~wlh/comp766/ 
 
