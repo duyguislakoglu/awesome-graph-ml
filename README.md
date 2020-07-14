@@ -15,7 +15,7 @@
 
 ## Workshops
 
-*1-*https://grlplus.github.io
+*1-* https://grlplus.github.io
 
 ## Slides
 
