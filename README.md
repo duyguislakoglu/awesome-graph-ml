@@ -11,6 +11,7 @@
 
 *2-*  https://deep-learning-drizzle.github.io/#graphnn 
 
+*3-*  https://qdata.github.io/deep2Read//aReadingsIndexByCategory/#2Graphs
 ## Slides
 
 ## Blog Posts
