@@ -45,6 +45,8 @@
 
 *1-* https://www.youtube.com/watch?v=Qtgep2CEExY
 
+*2-* https://buff.ly/39nVvIY
+
 ## Tools
 
 *1-* https://github.com/rusty1s/pytorch_geometric
