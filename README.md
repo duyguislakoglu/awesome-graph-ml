@@ -41,6 +41,8 @@
 
 *2-* https://www.youtube.com/watch?v=v3jZRkvIOIM
 
+*3-* https://www.youtube.com/watch?v=Rr0pBFGcnjw&list=PL05umP7R6ij1qBaWovWYINzgFZJrBey4L&index=14&t=0s 
+
 ## Podcasts
 
 *1-* https://www.youtube.com/watch?v=Qtgep2CEExY
