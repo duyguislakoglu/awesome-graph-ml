@@ -38,6 +38,8 @@
 
 *1-*  https://github.com/sw-gong/GNN-Tutorial
 
+*2-*  https://github.com/mims-harvard/graphml-tutorials
+
 ## Videos
 
 *1-* https://www.youtube.com/watch?v=8kTxTX0eBRA
