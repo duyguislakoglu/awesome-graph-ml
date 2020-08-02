@@ -24,6 +24,8 @@
 
 *2-* https://grlearning.github.io
 
+*3-* http://gdl-israel.github.io/
+
 ## Slides
 
 *1-* https://www.dropbox.com/s/appafg1fumb6u7f/tutorial_CVPR17_DL_graphs.pdf?dl=0
