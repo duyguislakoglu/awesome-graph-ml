@@ -20,7 +20,7 @@
 
 ## Workshops
 
-*1-* https://grlplus.github.io
+*1-* https://grlplus.github.io (Videos: https://slideslive.com/icml-2020/graph-representation-learning-and-beyond-grl)
 
 *2-* https://grlearning.github.io
 
