@@ -2,7 +2,7 @@
 
 ## Courses
 
-*1-* <a href="http://web.stanford.edu/class/cs224w/">Stanford CS224W</a> <a href="http://snap.stanford.edu/class/cs224w-videos-2019/">2019 Winter Lecture Videos</a>
+*1-* <a href="http://web.stanford.edu/class/cs224w/">Stanford CS224W</a> / <a href="http://snap.stanford.edu/class/cs224w-videos-2019/">2019 Winter Lecture Videos</a>
      
 *2-* <a href="https://cs.mcgill.ca/~wlh/comp766/">Mcgill Comp766</a>
 
