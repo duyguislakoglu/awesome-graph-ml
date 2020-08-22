@@ -7,7 +7,11 @@
 *2-* <a href="https://cs.mcgill.ca/~wlh/comp766/">Mcgill Comp766</a>
 
 *3-* <a href="https://jian-tang.com/teaching/graph2019">Jian Tang</a>
-  
+
+## Books
+
+*1-* <a href=https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf">William L. Hamilton. (2020). Graph Representation Learning. Morgan & Claypool, forthcoming .</a>
+
 ## Collections
 
 *1-*  <a href="https://github.com/naganandy/graph-based-deep-learning-literature">graph-based-deep-learning-literature</a>
