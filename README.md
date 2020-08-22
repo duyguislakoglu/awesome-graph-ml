@@ -10,7 +10,7 @@
 
 ## Books
 
-*1-* <a href=https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf">William L. Hamilton. (2020). Graph Representation Learning. Morgan & Claypool, forthcoming .</a>
+*1-* <a href="https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf">William L. Hamilton. (2020). Graph Representation Learning. Morgan & Claypool, forthcoming .</a>
 
 ## Collections
 
