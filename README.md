@@ -48,13 +48,15 @@
 
 ## Videos
 
-*1-* <a href="https://www.youtube.com/watch?v=8kTxTX0eBRA">Geometric Deep Learning - Michael Bronstein - MLSS 2020, Tübingen</a>
+*1-* <a href="https://www.youtube.com/watch?v=MIAbDNAxChI">Jure Leskovec "Deep Learning on Graphs"</a>
 
-*2-* <a href="https://www.youtube.com/watch?v=v3jZRkvIOIM">Xavier Bresson: "Convolutional Neural Networks on Graphs"</a>
+*2-* <a href="https://www.youtube.com/watch?v=8kTxTX0eBRA">Geometric Deep Learning - Michael Bronstein - MLSS 2020, Tübingen</a>
 
-*3-* <a href="https://www.youtube.com/watch?v=Rr0pBFGcnjw&list=PL05umP7R6ij1qBaWovWYINzgFZJrBey4L&index=14&t=0s">Stefanie Jegelka: Representation and Learning in Graph Neural Networks</a> 
+*3-* <a href="https://www.youtube.com/watch?v=v3jZRkvIOIM">Xavier Bresson: "Convolutional Neural Networks on Graphs"</a>
 
-*4-* <a href="https://www.youtube.com/watch?v=fpb3j33RfTc&feature=youtu.be">Focused Lecture - Graph Neural Networks with Petar Velickovic</a>
+*4-* <a href="https://www.youtube.com/watch?v=Rr0pBFGcnjw&list=PL05umP7R6ij1qBaWovWYINzgFZJrBey4L&index=14&t=0s">Stefanie Jegelka: Representation and Learning in Graph Neural Networks</a> 
+
+*5-* <a href="https://www.youtube.com/watch?v=fpb3j33RfTc&feature=youtu.be">Focused Lecture - Graph Neural Networks with Petar Velickovic</a>
 
 ## Podcasts
 
