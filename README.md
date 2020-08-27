@@ -30,6 +30,8 @@
 
 *3-* <a href="http://gdl-israel.github.io/">GDL Israel</a>
 
+*4-* <a href="http://www.mlgworkshop.org/2020/"> MLG </a>
+
 ## Slides
 
 *1-* <a href="https://www.dropbox.com/s/appafg1fumb6u7f/tutorial_CVPR17_DL_graphs.pdf?dl=0">Xavier Bresson tutorial_CVPR17_DL_graphs</a>
