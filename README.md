@@ -12,6 +12,8 @@
 
 *1-* <a href="https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf">William L. Hamilton. (2020). Graph Representation Learning. Morgan & Claypool, forthcoming</a>
 
+*2-* <a href="https://cse.msu.edu/~mayao4/dlg_book/"> DLG </a>
+
 ## Collections
 
 *1-*  <a href="https://github.com/naganandy/graph-based-deep-learning-literature">graph-based-deep-learning-literature</a>
