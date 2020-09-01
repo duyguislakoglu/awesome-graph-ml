@@ -62,6 +62,8 @@
 
 *5-* <a href="https://www.youtube.com/watch?v=fpb3j33RfTc&feature=youtu.be">Focused Lecture - Graph Neural Networks with Petar Velickovic</a>
 
+*6-* <a href="https://www.youtube.com/watch?v=9XoCQn34tXo&feature=youtu.be">Learning the Structure of Graph Neural Networks | Mathias Niepert | heidelberg.ai</a>
+
 ## Podcasts
 
 *1-* <a href="https://www.youtube.com/watch?v=Qtgep2CEExY">TWiML Joan Bruna & Michael Bronstein Interview - Geometric Deep Learning</a>
