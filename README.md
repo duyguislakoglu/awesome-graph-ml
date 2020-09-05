@@ -44,6 +44,8 @@
 
 *2-* <a href="https://medium.com/@BorisAKnyazev">Boris Kynazev</a>
 
+*3-* <a href="https://app.wandb.ai/yashkotadia/gatedgcn-pattern/reports/Intro-to-Graph-Neural-Networks-with-GatedGCN--VmlldzoyMDg4MjA">Introduction to GNNs with GatedGCN</a>
+
 ## Tutorials
 
 *1-*  <a href="https://github.com/sw-gong/GNN-Tutorial">Shunwang Gong GNN Tutorial</a>
